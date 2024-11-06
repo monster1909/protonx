@@ -1,0 +1,6 @@
+faiss-cpu
+Flask
+torch
+datasets
+transformers
+scikit-learn
